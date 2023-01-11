@@ -1,0 +1,5 @@
+pytest-html
+pytest-rerunfailures
+pytest-xdist == 2.2.0
+pytest-ordering
+allure-pytest
