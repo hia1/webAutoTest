@@ -1,0 +1,19 @@
+---
+ username:
+   - 'id'
+   - 'email'
+ password:
+   - 'id'
+   - 'pwd'
+ code:
+   - 'id'
+   - 'code'
+ loginBTN:
+   - 'name'
+   - 'denglu'
+ 进入登陆页面:
+    - 'xpath'
+    - '/html/body/div[1]/div/div[2]/div[1]/a[6]'
+
+ 置灰按钮:
+...

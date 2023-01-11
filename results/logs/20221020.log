@@ -1,0 +1,3 @@
+INFO	2022-10-20 09:25:38,288	[logger.py:37]	hell world
+INFO	2022-10-20 09:29:29,609	[logger.py:37]	hell world
+DEBUG	2022-10-20 09:29:36,643	[logger.py:37]	hell world
